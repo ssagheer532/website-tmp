@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/website-tmp"
-url: "https://ssagheer532.github.io/"
+baseurl: ""
+url: "http://ahadsagheer.me/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
