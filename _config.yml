@@ -21,7 +21,7 @@ theme_settings:
   linkedin:  https://www.linkedin.com/in/ahadsagheer/
   youtube:
 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-135062536-1 # Tracking ID, e.g. "UA-000000-01"
   katex: true # Enable if using math markup
   search: false # Enable the search feature
 
