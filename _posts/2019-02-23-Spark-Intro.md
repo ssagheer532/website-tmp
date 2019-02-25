@@ -5,7 +5,7 @@ feature-img: "assets/img/sample_feature_img.png"
 tags: [Big Data]
 
 ---
-An introduction to Spark and what role it plays in big data. 
+**An introduction to Spark and what role it plays in Big Data** 
 
 When it comes to big data, processing speed is a big factor when choosing which software to use. Imagine trying to query hundreds of terabytes of data in MySQL. MySQL only uses one CPU core but Spark uses all cores and uses parallel computing to run queries. In fact, queries on Spark tend to process 10 times faster than on MySQL! Spark can also split up a query into smaller queries and run those across different servers. If a company manages terabytes of data a day, they may want a way to run analytics or apply a machine learning algorithm on the data. Big data software such as Spark help achieve this. 
 
