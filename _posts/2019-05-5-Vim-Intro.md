@@ -12,7 +12,7 @@ Vim at its core is just a powerful text editor. While it may seem unintuitive an
 
 **You don't need to become a Vim expert**
 
-When I first learned vim I got hung up on “learning” Vim because of the jokes about not being able to exit. Although there is a bit of complexity to vim, for all the power it gives you it's fairly easy to get started. 
+When I first learned vim I got hung up on “learning” vim because of the jokes about not being able to exit. Although there is a bit of complexity to vim, for all the power it gives you it's fairly easy to get started. 
 
 
 ## Below are some common commands and use cases for Vim 
