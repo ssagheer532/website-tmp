@@ -9,8 +9,7 @@ tags: [DevOps]
 
 Designed by Google in 2014, Kubernetes (also known as k8s) is a growing tool used by many companies to manage their containerized applications. If you aren’t familiar with containerized application, it’s essentially a way to launch and deploy an app without launching an entire virtual machine. This means containerized apps are light weight and require less cpu and memory to run. Docker is the most popular technology engineers use to containerize their apps. Before continuing on with this post, make sure you fully understand what Docker is (plus, it’s pretty cool). When Docker was growing in popularity engineers quickly discovered a problem - there was no way to easily manage a large amount of docker containers. If I’m just running a simple containerized API I can easily manage and deploy it. However, what if I’m running hundreds of different APIs in hundreds of different containers. Now, it’s almost impossible to individually manage them but luckily this is where k8s comes in. 
 
-K8s allows engineers to manage various aspects of containerized application from their computing power to their storage resources. We’re not going to get into the nitty gritty details of how k8s works, but here’s the general gist
-: 
+K8s allows engineers to manage various aspects of containerized application from their computing power to their storage resources. We’re not going to get into the nitty gritty details of how k8s works, but here’s the general gist: 
 1. K8s connects with some sort of cluster of machines such as AWS EC2 instances.
 2. A controller plane is created between the machines and the containerized applications.
 3. Users can schedule workloads on the machine cluster via an API server on the controller plane. The controller plane also includes a controller manager that can create, update, and delete resources. 
