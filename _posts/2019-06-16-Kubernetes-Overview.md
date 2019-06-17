@@ -16,6 +16,8 @@ K8s allows engineers to manage various aspects of containerized application from
 4. The workloads themselves live inside nodes. These nodes hold the state for the workload and all containers in that node. 
 5. Within each node are one or more pods where containerized applications live. 
 
+**So now what?**
+
 Once you have everything setup with k8s, it will handle much of the tedious tasks of managing containerized apps such load balancing, scaling, and quick deployments. Because it allows teams to move faster while being cost efficient, k8s is quickly gaining in popularity and may soon become the industry standard in cloud computing. 
 
 By this point, you should have a general idea of how k8s works and utility it brings but don’t be discouraged if you aren’t an expert at it. There are multiple different technologies which go into learning k8s such as Dockker, YAML, Jenkins, AWS, etc. so it will take a couple months of continuous use to really become a Kubernetes pro.  
