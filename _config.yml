@@ -7,7 +7,7 @@ theme_settings:
   title: Ahad Sagheer
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
-  description: "A person website and blog for Ahad Sagheer"
+  description: "A personal website and blog for Ahad Sagheer"
 
   header_text: >
      <p>I'm a software engineer with a BS Computer Science from Purdue University who thirsts for challenges and strives to solve any task. My favorite language is Java but I've also used Scala, Python, C, and C++. In the future I hope to one day lead a group programmers in creating real and impactful solutions!</p>
