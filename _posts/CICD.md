@@ -7,7 +7,6 @@ tags: [DevOps]
 
 #### CICD Pipelines
 
-//why every project needs a cicd pipeline
 In March 2020 when the nation was on lockdown due to covid19 a team of programmers, designers, entrepreneurs, and I created a non profit called [StayNeighbor](https://stayneighbor.com/). StayNeighbor is a website that allows anyone to donate/request meals, PPE, household supplies, and more. The idea was that it's hard to go shopping or get help when everyone is stuck in their homes and can't go out. While developing this website, our main concern was getting the website bug free, functional, and ready for production ASAP. Speed was a main concern because during development many organizations and certain government officials wanted to use the website in their community. As a result we didn't follow all the best practices when setting up the project and in an effort to save time we never had a real CICD (continuous integration continuous deployment) pipeline. Although this saved us a lot of time in the beginning of development, later on when the website was nearing complete we faced many issues that a CICD pipeline would have fixed.
 
 #### What is a CICD pipeline?
