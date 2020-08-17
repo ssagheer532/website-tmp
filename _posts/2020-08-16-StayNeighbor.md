@@ -19,7 +19,7 @@ We also ran into issues integrating Facebook and Google login APIs and resorted 
 
 #### Getting Noticed
 
-Not everyone on the team was a software engineer so during our development they played a key role in marketing the website and getting beta users.
+Not everyone on the team was a software engineer so during our development our other teammates played a key role in marketing the website and getting beta users.
 
 ![](/assets/img/StayNeighbor1.PNG)
 
