@@ -23,9 +23,9 @@ Not everyone on the team was a software engineer so during our development they 
 
 ![](/assets/img/StayNeighbor1.PNG)
 
-![](/assets/img/StayNeighbor2.PNG)
-
 ![](/assets/img/StayNeighbor3.PNG)
+
+![](/assets/img/StayNeighbor2.PNG)
 
 
 Around April 2020 the website went live and was used in New Hanover County NC. Some of our teammates lived in that area and had connections so it was a natural spot to launch the website and get early feedback. A couple weeks later we had over 40 different organizations either using the website or promoting it!
