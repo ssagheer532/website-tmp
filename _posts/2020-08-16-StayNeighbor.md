@@ -38,6 +38,6 @@ Crisis Cleanup is a management platform that improves coordination and reduces d
 
 #### Lessons Learned
 
-1. CICD pipelines are very important. I talk about this in my [my post earlier](http://ahadsagheer.me/2020/07/06/CICD.html) but taking the time to build a CICD pipeline would have saved us hours in debugging bugs.
-2. Choose the right tech stack. We chose MongoDB Realm as our cloud service since they were the cheapest but choosing something more tested such as AWS would have made StayNeighbor more robust and easier to develop.
-3. Momentum plays a key role in how fast small teams move. Getting APIs out quickly, hearing that new organizations are interested, and seeing the app in the news were all big wins for us and after each win the dev team seemed to work even harder. In our case all of this happened in about a month so we were all feeling great but in a work environment a team's momentum can play an important role in their deliverables.
+1. **CICD pipelines are very important.** I talk about this in my [my post earlier](http://ahadsagheer.me/2020/07/06/CICD.html) but taking the time to build a CICD pipeline would have saved us hours in debugging bugs.
+2. **Choose the right tech stack.** We chose MongoDB Realm as our cloud service since they were the cheapest but choosing something more tested such as AWS would have made StayNeighbor more robust and easier to develop.
+3. **Momentum plays a key role in how fast small teams move.** Getting APIs out quickly, hearing that new organizations are interested, and seeing the app in the news were all big wins for us and after each win the dev team seemed to work even harder. In our case all of this happened in about a month so we were all feeling great but in a work environment a team's momentum can play an important role in their deliverables.
