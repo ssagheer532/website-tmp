@@ -21,11 +21,11 @@ We also ran into issues integrating Facebook and Google login APIs and resorted 
 
 Not everyone on the team was a software engineer so during our development they played a key role in marketing the website and getting beta users.
 
-![](/assets/img/StayNeighbor1.png)
+![](/assets/img/StayNeighbor1.PNG)
 
-![](/assets/img/StayNeighbor2.png)
+![](/assets/img/StayNeighbor2.PNG)
 
-![](/assets/img/StayNeighbor3.png)
+![](/assets/img/StayNeighbor3.PNG)
 
 
 Around April 2020 the website went live and was used in New Hanover County NC. Some of our teammates lived in that area and had connections so it was a natural spot to launch the website and get early feedback. A couple weeks later we had over 40 different organizations either using the website or promoting it!
